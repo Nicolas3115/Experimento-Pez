@@ -1,6 +1,7 @@
 solo unos scripts de python que nacieron de mi aburrimiento
 
 Cómo usarlo
+
 Abrí el símbolo del sistema (CMD).
 
 Entrá a la carpeta donde están los archivos con:
