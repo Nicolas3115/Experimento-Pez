@@ -1,0 +1,17 @@
+import time
+
+print("día 7 del experimento:")
+time.sleep(2)
+print("recibí una carta por correo")
+time.sleep(2)
+print("no tiene remitente, huele a algas")
+time.sleep(3)
+print("dice:")
+time.sleep(2)
+print('"gracias por dejarnos libres. firmados: los peces"')
+time.sleep(3)
+print("volví a mirar la pecera...")
+time.sleep(2)
+print("ahora hay un hámster dentro")
+time.sleep(2)
+print("y me está mirando fijo")

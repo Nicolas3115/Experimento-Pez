@@ -1,0 +1,13 @@
+import time
+
+print("día 6 del experimento:")
+time.sleep(2)
+print("el pez ya no está")
+time.sleep(2)
+print("dejé la pecera tapada")
+time.sleep(2)
+print("no hay rastros de agua")
+time.sleep(2)
+print("tampoco del otro pez")
+time.sleep(3)
+print("solo dejaron una nota que dice 'libertad'")
